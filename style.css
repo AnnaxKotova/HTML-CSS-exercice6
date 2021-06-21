@@ -1,0 +1,48 @@
+.ident{
+    background-color: #92dce5;
+        }
+    
+.formtexte{
+    background-color: #f5d2cc;
+    border-color: #a5be00;
+    border-radius: 7px;
+    }
+
+.form{
+    height: 20px;
+    background-color: #f5d2cc;
+    border-color: #a5be00;
+    border-radius: 7px;
+    }
+
+.livr{
+    background-color: #427aa1;
+    }
+
+.regl{
+    background-color: #05668d;
+    }
+
+.bouton{
+    border-color:#d74b33;
+    border-radius: 7px;
+    background-color: #a5be00;
+    height: 30px;
+    }
+
+.border1{
+    margin: 20px 0 0 20px;
+}
+
+.border3{
+    margin: 0 0 20px 20px;
+}
+
+.border2{
+    margin-left: 20px;
+}
+.radio{
+    margin-left: 60px;
+}
+
+
